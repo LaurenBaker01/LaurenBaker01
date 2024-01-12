@@ -14,16 +14,13 @@
 
 - <b>Managing Security Risk</b>
   - [Scope, goals, and risk assessment report](https://github.com/LaurenBaker01/ManagingSecurityRisk)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>File Permissions in Linux Project</b>
+  - [Changing file permissions](https://github.com/LaurenBaker01/File-Permissions-in-Linux-Project/tree/main#file-permissions-in-linux-project) 
   
 <h2>Professional Experince</h2>
 
 - [Resume](https://coursera.org/share/a7133a43a12ac34672be7e6e1f3e6158)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
 
 <h2> 🤳 Connect with me:</h2>
 
