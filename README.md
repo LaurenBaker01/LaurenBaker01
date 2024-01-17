@@ -19,7 +19,7 @@
   
 <h2>Professional Experince</h2>
 
-- [Resume](https://coursera.org/share/a7133a43a12ac34672be7e6e1f3e6158)
+- [Resume](https://github.com/LaurenBaker01/Resume)
 
 
 <h2> 🤳 Connect with me:</h2>
