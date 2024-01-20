@@ -34,6 +34,6 @@ Certification:
 
 
 - 🔭 I’m currently working on writing basic IDS rules to provide alerts for malicious network traffic.
-- 🌱 I’m currently learning about network traffic and logs using IDS and SIEM tools
-- 🤔 I’m looking for help with gaining practical experince to sharpen these developing skills
+- 🌱 I’m currently learning about network traffic and logs using IDS and SIEM tools.
+- 🤔 I’m looking for help with gaining practical experince to sharpen these developing skills.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/laurenbakermi/)
