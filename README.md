@@ -3,7 +3,9 @@
  <section class="section">
         <h2>Professional Summary</h2>
         <p>
-            I'm a result-oriented recent graduate with a passion for technology and data-driven decision-making. Eager to apply my project coordination expertise to enhance SIEM tool utilization and programming language proficiency. Enthusiastically merging my Healthcare Administration and cybersecurity acumen to ensure secure access for our network's diverse patient base.
+           A recent graduate with a passion for technology and data-driven decision-making, seeking to apply project coordination expertise and merge Healthcare Administration and cybersecurity acumen to ensure secure access for a network's diverse patient base. Pursuing Google Cybersecurity and Security+ Certifications.
+
+
         </p>
         <p>
             Google Foundations of Cybersecurity Certification: <a href="https://coursera.org/share/a7133a43a12ac34672be7e6e1f3e6158">View Certification</a>
