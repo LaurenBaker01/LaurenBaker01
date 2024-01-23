@@ -25,7 +25,7 @@ Certification:
   
 <h2>Professional Experince</h2>
 
-- [Resume](https://github.com/LaurenBaker01/Resume/assets/150492784/86cc88a6-db46-4e64-9c43-3d2875ac47cd)
+- [Resume](https://github.com/LaurenBaker01/Resume/blob/main/README.md)
 
 
 <h2> 🤳 Connect with me:</h2>
