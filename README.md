@@ -3,12 +3,13 @@
  <section class="section">
         <h2>Professional Summary</h2>
         <p>
-           A recent graduate with a passion for technology and data-driven decision-making, seeking to apply project coordination expertise and merge Healthcare Administration and cybersecurity acumen to ensure secure access for a network's diverse patient base. Pursuing Google Cybersecurity and Security+ Certifications.
-       
+           Recent graduate passionate about technology and data-driven decision-making, bringing project coordination expertise and a blend of Healthcare Administration and Cybersecurity knowledge. Eager to contribute to a dynamic team, my goal is to apply this unique skill set in a role emphasizing innovation, attention to detail, and a commitment to advancing organizational security.     
+Recently earned a Google Cybersecurity Certification and Security+ Certification pending March 2024.
 
+Earning my Cybersecurity Certificate from Google via Coursera, I developed a deep passion for keeping the digital realm secure. Identifying cybersecurity threats and implementing defense strategies have become second nature to me, especially with my hands-on experience in Python, Linux, and SQL. Through mastering SIEM tools, I'm committed to protecting networks, devices, and data, making cybersecurity more than just a profession—it's my way of contributing to a safer digital future for everyone.
     
 Certification:
-- 🌐 Pending - Google Cybersecurity Certification
+- 🌐 [Google Cybersecurity Certification](https://coursera.org/share/559f7ff39ae90e4ea2669261585cb0cb)
 - 🌐 Pending - CompTIA Security+ Certification
 - 🌐 [Google Foundations of Cybersecurity Google Certification](https://coursera.org/share/a7133a43a12ac34672be7e6e1f3e6158)
 - 🌐 [Assets, Threats, and Vulnerabilities Google Certification](https://coursera.org/share/41d791edd180d3a9261d177ce7949756)
