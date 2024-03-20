@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lauren! <br/><a href="https://github.com/LaurenBaker01">Cybersecurity Professional & Student</a>
+<h1>Hi, I'm Lauren! <br/><a href="https://github.com/LaurenBaker01/Resume/blob/main/README.md">Cybersecurity Professional & Student</a>
 
  <section class="section">
         <h2>Professional Summary</h2>
