@@ -3,11 +3,14 @@
  <section class="section">
         <h2>Professional Summary</h2>
         <p>
+         
 Recent graduate passionate about technology and data-driven decision-making, bringing project coordination expertise and a blend of Healthcare Administration and Cybersecurity knowledge.
 
-  <sub><sub>Earning my Cybersecurity Certificate from Google via Coursera, I developed a deep passion for securing the digital realm. Identifying cybersecurity threats and implementing defense strategies have become second nature to me, especially with my hands-on experience in Python, Linux, and SQL. Through mastering SIEM tools, I'm committed to protecting networks, devices, and data, making cybersecurity more than just a profession—it's my way of contributing to a safer digital future for everyone. <sub><sub>
+ <sub><sub>Earning my Cybersecurity Certificate from Google via Coursera, I developed a deep passion for securing the digital realm. Identifying cybersecurity threats and implementing defense strategies have become second nature to me, especially with my hands-on experience in Python, Linux, and SQL. Through mastering SIEM tools, I'm committed to protecting networks, devices, and data, making cybersecurity more than just a profession—it's my way of contributing to a safer digital future for everyone. <sub><sub>
+
+
     
-Certification:
+ Certification:
 - 🌐 Pending - CompTIA Security+ Certification
 - 🌐 [Google Cybersecurity Certification](https://coursera.org/share/559f7ff39ae90e4ea2669261585cb0cb)
 - 🌐 [Automate Cybersecurity Tasks with Python](https://coursera.org/share/7c0c90bca1d91cf1eabbf12243a4e39a)
@@ -17,6 +20,11 @@ Certification:
 - 🌐 [Play It Safe: Manage Security Risks Google Certification](https://coursera.org/share/8224b964dc60f9f7142ea2beec14e3a4)
 - 🌐 [Connect and Protect: Networks and Network Security Google Certification](https://coursera.org/share/e479ce6eda800a5950d72712a2c93c6b)
 - 🌐 [Put It to Work: Prepare for Cybersecurity Jobs](https://coursera.org/share/8df415225712f6ba39b059a5200b422b)
+
+
+
+
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -29,8 +37,7 @@ Certification:
 
 - [Resume](https://github.com/LaurenBaker01/Resume/blob/main/README.md)
 
-
-<h2> 🤳 Connect with me:</h2>
+<h4>🤳 Connect with me:<h4>
 
 [LinkedIn](https://www.linkedin.com/in/laurenbakermi/)
 
